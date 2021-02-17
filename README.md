@@ -3,5 +3,5 @@ This project contains console apps specific to each C# concept ready to debug an
 
 Note for conributors: 
 1. Add proper comments.
-2. Follow camelcasing and pascal casing wherever applicable.
+2. Follow camelCasing and PascalCasing wherever applicable.
 3. Use consistent coding practice.
