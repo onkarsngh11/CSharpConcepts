@@ -3,5 +3,6 @@ This project contains console apps specific to each C# concept ready to debug an
 
 Note for conributors: 
 1. Add proper comments.
-2. Follow camelCasing and PascalCasing wherever applicable.
+2. Follow camelCasing for properties/variables and PascalCasing for classes/struct/interfaces/methods/folders.
 3. Use consistent coding practice.
+4. Add test cases.

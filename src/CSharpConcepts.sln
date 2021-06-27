@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Delegates.csproj", "{1214AC2F-C47F-4E9C-91B5-107C46290E79}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjectionScopes", "DependencyInjectionScopes\DependencyInjectionScopes.csproj", "{4CE20764-FA0B-4BCF-B62C-C5B0366516BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreScopes", "AspNetCoreScopes\AspNetCoreScopes.csproj", "{4CE20764-FA0B-4BCF-B62C-C5B0366516BF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerableConcepts", "IEnumerable\IEnumerableConcepts.csproj", "{70526AF1-9339-4A8D-A47A-4129DB448FFC}"
 EndProject
