@@ -7,7 +7,7 @@
 using OOPS;
 
 Product product = new Mobile();
-product.();
+product.Name = "Test";
 
 Calculator calculator = new Calculator();
 calculator.Multiply(3, 4, 5);
