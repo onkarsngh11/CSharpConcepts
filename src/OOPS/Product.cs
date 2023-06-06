@@ -70,3 +70,12 @@ public class Calculator
         return x * y;
     }
 }
+
+public class Instant
+{
+    public static Instant Method()
+    {
+        return new Instant();
+    }
+}
+

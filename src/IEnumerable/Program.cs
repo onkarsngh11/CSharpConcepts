@@ -19,6 +19,7 @@ namespace IEnumerableConcepts
             }
         }
 
+        //Each call to the iterator function proceeds to the next execution of the yield return statement, which occurs during the next iteration of the for loop.
         public static IEnumerable<int> Power2(int number, int exponent)
         {
             int result = 1;
